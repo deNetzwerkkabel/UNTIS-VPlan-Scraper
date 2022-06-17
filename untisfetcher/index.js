@@ -175,5 +175,5 @@ function downloadVPlan(base_url){
     })
 }
 
-downloadVPlan("https://igs-h.de/iserv/public/plan/show/Vertretungsplan/b21da129738497b4/heute/subst_001.htm");
+downloadVPlan("https://path-to-your-vplan");
 
