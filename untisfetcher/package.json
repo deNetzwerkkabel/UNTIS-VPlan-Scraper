@@ -1,0 +1,21 @@
+{
+  "name": "untis-vplan-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "UNTIS, Vertretungsplan"
+  ],
+  "author": "MRTNSoft",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "html-entities": "^2.3.3",
+    "iconv": "^3.0.1",
+    "jssoup": "^0.0.15",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.7",
+    "utf8": "^3.0.0"
+  }
+}
